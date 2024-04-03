@@ -1,5 +1,14 @@
 [
     {
+        "complexCosts":[
+            {
+                "upkeep": 500,
+                "insurance" : 1000,
+                "mortgage" : 1300
+            }
+        ]
+    },
+    {
         "aptnum": 1,
         "Resident": "Sam",
         "level": "upper",
