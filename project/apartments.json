@@ -1,0 +1,98 @@
+[
+    {
+        "aptnum": 1,
+        "Resident": "Sam",
+        "level": "upper",
+        "rent": 600
+    },
+    {
+        "aptnum": 2,
+        "Resident": "bill",
+        "level": "upper",
+        "rent": 700
+    },
+    {
+        "aptnum": 3,
+        "Resident": "Caitlyn",
+        "level": "upper",
+        "rent": 800
+    },
+    {
+        "aptnum": 4,
+        "Resident": "Aubrey",
+        "level": "upper",
+        "rent": 900
+    },
+    {
+        "aptnum": 5,
+        "Resident": "Ryan",
+        "level": "lower",
+        "rent": 600
+    },
+    {
+        "aptnum": 6,
+        "Resident": "Carter",
+        "level": "lower",
+        "rent": 300
+    },
+    {
+        "aptnum": 7,
+        "Resident": "empty",
+        "level": "lower",
+        "rent": 0
+    },
+    {
+        "aptnum": 8,
+        "Resident": "Duncan",
+        "level": "lower",
+        "rent": 450
+    },
+    {
+        "aptnum": 11,
+        "Resident": "empty",
+        "level": "upper",
+        "rent": 0
+    },
+    {
+        "aptnum": 12,
+        "Resident": "Ainsley",
+        "level": "upper",
+        "rent": 900
+    },
+    {
+        "aptnum": 13,
+        "Resident": "Ammon",
+        "level": "upper",
+        "rent": 850
+    },
+    {
+        "aptnum": 14,
+        "Resident": "Bryson",
+        "level": "upper",
+        "rent": 750
+    },
+    {
+        "aptnum": 15,
+        "Resident": "Kenyon",
+        "level": "lower",
+        "rent": 700
+    },
+    {
+        "aptnum": 16,
+        "Resident": "Ella",
+        "level": "lower",
+        "rent": 550
+    },
+    {
+        "aptnum": 17,
+        "Resident": "Emily",
+        "level": "lower",
+        "rent": 450
+    },
+    {
+        "aptnum": 18,
+        "Resident": "Jon",
+        "level": "lower",
+        "rent": 500
+    }
+]

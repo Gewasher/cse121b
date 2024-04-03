@@ -63,7 +63,9 @@ document.querySelector('#divideNumbers').addEventListener('click', divideNumbers
 
 
 /* Decision Structure */
-document.querySelector('#getTotal').addEventListener('click', getTotal);
+document.querySelector('#getTotal')
+
+
 
 function getTotal(){
     let subtotal = Number(document.querySelector('#subtotal').value);
